@@ -40,4 +40,4 @@ Strategic Planning: Insights enable better forecasting, targeted promotions, and
 
 
 # Dashboard preview:
-Dashboard preview:- https://github.com/kundankumarmec-cmd/retail-sales-analytics-excel-powerquery-powerbi/blob/main/Retail%20sales%20analytics%20dashboard.jpg
+Dashboard preview:- (https://github.com/kundankumarmec-cmd/retail-sales-analytics-excel-powerquery-powerbi/blob/main/Retail%20sales%20analytics%20dashboard.jpg)
