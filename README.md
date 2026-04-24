@@ -1,9 +1,9 @@
 # Retail-sales-analysis:
 Retail sales insights dashboard.
-A dynamic, interactive data visualization tool built to explore retail data focusing on orders ,revenue, profit , most ordered product,most returned product and top 10 products mostly ordered.
+A dynamic, interactive data visualization tool designed to explore retail data, focusing on orders, revenue, profit, the most ordered product, the most returned product, and the top 10 most frequently ordered products.
 
 # Purpose:
-The Retail sales analytics dashboard is a visually engaging and analytical Power BI report designed to help sales team to find out most ordered product and most returned product. The dashboard focuses on highliting top 10 products which are contributing in revenue generation and profit. It also highlights montly revenue , monthly orders and monthly retuns. This tool is intended for use by sales analysts, monrhly sales trend ,revenue trend and data driven strategies who seek to understand customer requirement, order and revenue trend.
+The Retail Sales Analytics Dashboard is a visually engaging Power BI report designed to support the sales team in identifying key product performance. It highlights the top 10 products driving revenue and profit, as well as the most ordered and most returned items. The dashboard provides insights into monthly revenue, orders, and returns, enabling sales analysts to track trends and develop data-driven strategies. By analyzing customer demand, order patterns, and revenue trends, this tool empowers teams to make informed decisions and optimize sales performance.
 
 # Tech stack:
 The dashboard was built using the following tools and technologies:
@@ -11,7 +11,7 @@ Power BI Desktop — Main data visualization platform used for report creation.
 Power Query — Data transformation and cleaning layer for reshaping and preparing the data.
 DAX (Data Analysis Expressions) — Used for calculated measures, dynamic visuals, and conditional logic.
 Data Modeling — Relationships established among tables (resorts, snow, and data dictionary) to enable cross-filtering and aggregation.
-File Format — .pbix for development and .png for dashboard previews.
+File Format — .pbix for development and .jpg for dashboard previews.
 
 # Data source:
  sorce: Kaggle.com
@@ -40,4 +40,4 @@ Strategic Planning: Insights enable better forecasting, targeted promotions, and
 
 
 # Dashboard preview:
-Dashboard preview:- (https://github.com/kundankumarmec-cmd/retail-sales-analytics-excel-powerquery-powerbi/blob/main/Retail%20sales%20analytics%20dashboard.jpg)
+Dashboard preview:- https://github.com/kundankumarmec-cmd/retail-sales-analytics-excel-powerquery-powerbi/blob/main/Retail%20sales%20analytics%20dashboard.jpg
