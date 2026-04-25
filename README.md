@@ -1,4 +1,4 @@
-# Retail-sales-analysis:
+# Retail-sales-analytics:
 Retail sales insights dashboard :-
 A dynamic, interactive data visualization tool designed to explore retail data, focusing on orders, revenue, profit, the most ordered product, the most returned product, and the top 10 most frequently ordered products.
 
