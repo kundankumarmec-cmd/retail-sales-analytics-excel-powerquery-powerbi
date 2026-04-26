@@ -14,7 +14,7 @@ Data Modeling — Relationships established among tables (resorts, snow, and dat
 File Format — .pbix for development and .jpg for dashboard previews.
 
 # Data source:
- sorce: Kaggle.com
+ Coding Ninjas Data analytics bootcamp.
 
 
 # Business Problem:
